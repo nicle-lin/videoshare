@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - @localhost" uuid="9bd6bcff-3289-4be3-9a43-34e8e6f4749e">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>test.*</schema-pattern>
+      <default-schemas>test.*</default-schemas>
+    </data-source>
+    <data-source name="Rails videoshare: development" uuid="586b6f9f-9faa-4ae5-aba3-57887de8040a">
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dfcedfcddfc2dfdadfcddfd3dfd9dfd9</user-password>
+    </data-source>
+    <data-source name="Rails videoshare: test" uuid="ba145f23-c931-4360-915f-3845bb525eb6">
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dfcedfcddfc2dfdadfcddfd3dfd9dfd9</user-password>
+    </data-source>
+    <data-source name="Rails videoshare: production" uuid="b6bc6247-3e64-497f-92e7-1606dff24986">
+      <user-name>root</user-name>
+      <user-password>dfcedfcddfc2dfdadfcddfd3dfd9dfd9</user-password>
+      <schema-pattern>videoshare_production.*</schema-pattern>
+      <default-schemas>videoshare_production.*</default-schemas>
+    </data-source>
+  </component>
+</project>

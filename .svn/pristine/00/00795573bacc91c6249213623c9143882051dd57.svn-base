@@ -1,0 +1,8 @@
+<h1>Say#hello,world ! this is my first web</h1>
+<p>现在时间是：<%=@time%></p>
+<p>Find me in app/views/say/hello.html.erb</p>
+<p>
+
+  Say <a href="say/goodbye">Goodbye</a>!
+
+</p>
